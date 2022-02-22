@@ -6,12 +6,7 @@ import HomePage from "./pages/HomePage";
 
 function App() {
   return (
-    <>
-      <Header/>
-      <Routes>
-      <Route index element={<HomePage/>}/>
-      </Routes>
-    </>
+   'DEPLOY NEW BRANCH'
   );
 }
 
