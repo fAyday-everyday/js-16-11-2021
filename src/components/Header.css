@@ -6,4 +6,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 20px;
+}
+
+.asd {
+    width: 200px;
+    height: 200px;
+    background: cyan;
+    background-color: darkblue;
 }
