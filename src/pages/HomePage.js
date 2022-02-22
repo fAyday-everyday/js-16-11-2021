@@ -11,7 +11,7 @@ export default function HomePage() {
         <div className="cont">
             <div>
                 <Tabs options={options} />
-                <div className='asd'></div>
+                <div className='asd'>asd</div>
             </div> 
         </div>
     )
